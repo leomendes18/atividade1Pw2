@@ -1,0 +1,14 @@
+.boxMotorista {
+  background-color: #E5E1E6;
+  width: 774px;
+  height: 70px;
+  display: flex;
+  margin-left: -76px;
+  margin-top: 30px;
+  border: 1px #F0EAEA;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 142px;
+}

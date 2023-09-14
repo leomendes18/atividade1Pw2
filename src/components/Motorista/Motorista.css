@@ -1,0 +1,46 @@
+.motorista {
+  display: flex;
+  justify-content: space-between;
+  width: 720px;
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.numero{
+  font-size: 41px;
+  font-weight: 700;
+  color: #372D3B;
+}
+.carro{
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: -30px;
+  color: #372D3B;
+}
+.imagem1{
+ margin-left: -380px;
+}
+.boxNota{
+  background-color: #372D3B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90px;
+  height: 30px;
+  border-radius: 13px;
+  position: absolute;
+  margin-top: -30px;
+  margin-left: -70px;
+}
+.nota{
+  color: #FBF8FC;
+  font-weight: 600;
+  font-size: 16px;
+  margin-left: 10px;
+}
+.nomeMotorista{
+  color: #372D3B;
+  font-weight: 700;
+  font-size: 15px;
+  margin-left: -50px;
+  margin-top: 5px;
+}

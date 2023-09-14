@@ -1,0 +1,43 @@
+.input {
+  width: 540px;
+  height: 40px;
+  background-color: #F5EDF7;
+  border-radius: 10px;
+  border: transparent;
+}
+input::placeholder{
+  color: #372D3B;
+  font-size: 16px;
+  font-weight: 500;
+  padding-left: 10px;
+}
+.button {
+  background-color: #00875F;
+  color: #FFFFFF;
+  width: 80px;
+  height: 35px;
+  border-radius: 6px;
+  border: none;
+  transition: 1s;
+  cursor: pointer;
+}
+.button:hover{
+  background-color: #013c2b;
+}
+.button:active{
+  background-color: #00875F;
+  transition: 0s;
+}
+.telefone{
+  width: 32px;
+}
+.vector3{
+  width: 32px;
+}
+.boxMensagem {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-left: -80px;
+  margin-top: 50px;
+}
